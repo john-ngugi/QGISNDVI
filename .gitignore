@@ -1,8 +1,4 @@
 NDVI.tif 
 NDVI.tif.aux.xml
-<<<<<<< HEAD
 rasteroperations.qgz
-=======
-NDVI.tif 
->>>>>>> 16046a95085bd047364827ab4c03727b09b80ef5
 rasterOps.py 
